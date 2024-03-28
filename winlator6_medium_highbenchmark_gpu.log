@@ -1,0 +1,30 @@
+==============================================================
+============================================================== winlator
+==============================================================
+TimeDemo Play Started ,Level=island (Total Frames: 2000, Recorded Time: 111.86s)
+ Run Finished.
+    Play Time: 107.13s, Average FPS: 18.67
+    Min FPS: 0.24 at frame 3, Max FPS: 54.85 at frame 1756
+    Average Tri/Sec: 18, Tri/Frame: 1
+    Recorded/Played Tris ratio: 916665.63
+    Memory Usage: WorkingSet=1884Mb, PageFile=1579Mb, PageFaults=0
+ Run Finished.
+    Play Time: 88.61s, Average FPS: 22.57
+    Min FPS: 0.24 at frame 3, Max FPS: 54.85 at frame 1756
+    Average Tri/Sec: 45, Tri/Frame: 2
+    Recorded/Played Tris ratio: -157076.25
+    Memory Usage: WorkingSet=1896Mb, PageFile=1591Mb, PageFaults=0
+ Run Finished.
+    Play Time: 87.04s, Average FPS: 22.98
+    Min FPS: 0.24 at frame 3, Max FPS: 54.85 at frame 1756
+    Average Tri/Sec: 68, Tri/Frame: 3
+    Recorded/Played Tris ratio: 200837.70
+    Memory Usage: WorkingSet=1909Mb, PageFile=1603Mb, PageFaults=0
+ Run Finished.
+    Play Time: 87.29s, Average FPS: 22.91
+    Min FPS: 0.24 at frame 3, Max FPS: 54.85 at frame 1756
+    Average Tri/Sec: 91, Tri/Frame: 4
+    Recorded/Played Tris ratio: -157076.25
+    Memory Usage: WorkingSet=1918Mb, PageFile=1612Mb, PageFaults=0
+AutoTest Play Ended, (4 Runs Performed)
+==============================================================

@@ -1,0 +1,28 @@
+==============================================================
+TimeDemo Play Started ,Level=island (Total Frames: 2000, Recorded Time: 111.86s)
+ Run Finished.
+    Play Time: 79.43s, Average FPS: 25.18
+    Min FPS: 0.28 at frame 1, Max FPS: 67.89 at frame 1728
+    Average Tri/Sec: 25, Tri/Frame: 1
+    Recorded/Played Tris ratio: 916665.63
+    Memory Usage: WorkingSet=1843Mb, PageFile=1516Mb, PageFaults=0
+ Run Finished.
+    Play Time: 63.28s, Average FPS: 31.61
+    Min FPS: 0.28 at frame 1, Max FPS: 67.89 at frame 1728
+    Average Tri/Sec: 63, Tri/Frame: 2
+    Recorded/Played Tris ratio: -157076.25
+    Memory Usage: WorkingSet=1845Mb, PageFile=1522Mb, PageFaults=0
+ Run Finished.
+    Play Time: 61.08s, Average FPS: 32.74
+    Min FPS: 0.28 at frame 1, Max FPS: 67.89 at frame 1728
+    Average Tri/Sec: 98, Tri/Frame: 3
+    Recorded/Played Tris ratio: 200837.70
+    Memory Usage: WorkingSet=1849Mb, PageFile=1525Mb, PageFaults=0
+ Run Finished.
+    Play Time: 60.93s, Average FPS: 32.82
+    Min FPS: 0.28 at frame 1, Max FPS: 67.89 at frame 1728
+    Average Tri/Sec: 131, Tri/Frame: 4
+    Recorded/Played Tris ratio: -157076.25
+    Memory Usage: WorkingSet=1854Mb, PageFile=1530Mb, PageFaults=0
+AutoTest Play Ended, (4 Runs Performed)
+==============================================================

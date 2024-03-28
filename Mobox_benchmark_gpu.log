@@ -1,0 +1,56 @@
+==============================================================
+TimeDemo Play Started ,Level=island (Total Frames: 2000, Recorded Time: 111.86s)
+ Run Finished.
+    Play Time: 133.80s, Average FPS: 14.95
+    Min FPS: 0.03 at frame 63, Max FPS: 58.11 at frame 66
+    Average Tri/Sec: 14, Tri/Frame: 1
+    Recorded/Played Tris ratio: 916665.63
+    Memory Usage: WorkingSet=1965Mb, PageFile=1638Mb, PageFaults=0
+ Run Finished.
+    Play Time: 83.65s, Average FPS: 23.91
+    Min FPS: 0.03 at frame 63, Max FPS: 58.11 at frame 66
+    Average Tri/Sec: 47, Tri/Frame: 2
+    Recorded/Played Tris ratio: -157076.25
+    Memory Usage: WorkingSet=1983Mb, PageFile=1659Mb, PageFaults=0
+ Run Finished.
+    Play Time: 84.41s, Average FPS: 23.69
+    Min FPS: 0.03 at frame 63, Max FPS: 58.11 at frame 66
+    Average Tri/Sec: 71, Tri/Frame: 3
+    Recorded/Played Tris ratio: 200837.70
+    Memory Usage: WorkingSet=1996Mb, PageFile=1671Mb, PageFaults=0
+ Run Finished.
+    Play Time: 84.54s, Average FPS: 23.66
+    Min FPS: 0.03 at frame 63, Max FPS: 58.11 at frame 66
+    Average Tri/Sec: 94, Tri/Frame: 4
+    Recorded/Played Tris ratio: -157076.25
+    Memory Usage: WorkingSet=2005Mb, PageFile=1680Mb, PageFaults=0
+AutoTest Play Ended, (4 Runs Performed)
+==============================================================
+==============================================================
+TimeDemo Play Started ,Level=island (Total Frames: 2000, Recorded Time: 111.86s)
+ Run Finished.
+    Play Time: 95.10s, Average FPS: 21.03
+    Min FPS: 0.31 at frame 3, Max FPS: 58.17 at frame 978
+    Average Tri/Sec: 21, Tri/Frame: 1
+    Recorded/Played Tris ratio: 916665.63
+    Memory Usage: WorkingSet=1944Mb, PageFile=1625Mb, PageFaults=0
+ Run Finished.
+    Play Time: 84.23s, Average FPS: 23.74
+    Min FPS: 0.31 at frame 3, Max FPS: 60.61 at frame 99
+    Average Tri/Sec: 47, Tri/Frame: 2
+    Recorded/Played Tris ratio: -157076.25
+    Memory Usage: WorkingSet=1967Mb, PageFile=1647Mb, PageFaults=0
+ Run Finished.
+    Play Time: 84.10s, Average FPS: 23.78
+    Min FPS: 0.31 at frame 3, Max FPS: 60.61 at frame 99
+    Average Tri/Sec: 71, Tri/Frame: 3
+    Recorded/Played Tris ratio: 200837.70
+    Memory Usage: WorkingSet=1979Mb, PageFile=1659Mb, PageFaults=0
+ Run Finished.
+    Play Time: 84.01s, Average FPS: 23.81
+    Min FPS: 0.31 at frame 3, Max FPS: 60.61 at frame 99
+    Average Tri/Sec: 95, Tri/Frame: 4
+    Recorded/Played Tris ratio: -157076.25
+    Memory Usage: WorkingSet=1990Mb, PageFile=1668Mb, PageFaults=0
+AutoTest Play Ended, (4 Runs Performed)
+==============================================================
